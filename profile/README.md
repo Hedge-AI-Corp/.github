@@ -24,9 +24,70 @@ While HedgeBot leads our current offerings, Hedge AI is committed to expanding o
 - Personalized Financial Planning AI
 - Automated Portfolio Rebalancing Tools
 
-## Our Commitment to Accessibility
+## Our Technology and Workflow
 
-We believe that financial intelligence should not be a privilege, but a right. Hedge AI's tools are designed with user-friendliness in mind, ensuring that complex financial insights are translated into clear, actionable recommendations.
+### Collaboration Tools
+At Hedge AI, we leverage a powerful suite of digital tools to ensure seamless communication, collaboration, and productivity:
+
+#### Communication Platforms
+- **Slack**: Our primary communication hub
+  - Dedicated channels for different teams and projects
+  - Real-time messaging and file sharing
+  - Integrated with our development and project management workflows
+
+- **Zoom**: Virtual Meeting Solution
+  - Daily stand-up meetings
+  - Weekly all-hands and team sync-ups
+  - Client presentations and remote collaboration
+
+#### Project Management
+- **Notion**: Our central knowledge base and project tracking system
+  - Comprehensive documentation
+  - Project roadmaps and timelines
+  - Collaborative workspace for team alignment
+
+- **Linear**: Agile Project Management
+  - Sprint planning
+  - Bug tracking
+  - Feature development tracking
+
+- **Eraser**: Diagrams and User Flows
+  - AI Data Models
+  - User Flows
+  - Sketching/Planning
+
+#### Development and Collaboration
+- **GitHub**: Code Repository and Version Control
+  - Collaborative coding environment
+  - Pull request reviews
+  - Continuous integration and deployment
+
+- **Figma**: Design and Prototype Collaboration
+  - UI/UX design process
+  - Collaborative design reviews
+  - Prototype sharing and iteration
+
+- **Loom**: Briefing and Video Creation
+  - Bug Information
+  - Idea Debriefing
+
+### Workflow Principles
+
+#### Agile Methodology
+- Two-week sprint cycles
+- Daily stand-up meetings
+- Continuous integration and continuous deployment (CI/CD)
+- Regular retrospectives to improve processes
+
+#### Communication Protocols
+- Transparent and open communication
+- Async-first approach with clear documentation
+- Regular check-ins and progress updates
+- Emphasis on written communication to ensure clarity
+
+#### Team Information
+- Run by Founder & CEO Aydin Joshi, we will have a team of about 3+ people before launch (mainly developers)
+- We will seek VC funding from a variety of sources
 
 ## Technology Behind the Magic
 
