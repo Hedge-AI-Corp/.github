@@ -40,6 +40,11 @@ At Hedge AI, we leverage a powerful suite of digital tools to ensure seamless co
   - Weekly all-hands and team sync-ups
   - Client presentations and remote collaboration
 
+- **Google Workspace**: Emailing and Customer Support
+  - Custom Email Domains
+  - Docs, Sheets, and more
+  - Google Chat & Meet
+
 #### Project Management
 - **Notion**: Our central knowledge base and project tracking system
   - Comprehensive documentation
